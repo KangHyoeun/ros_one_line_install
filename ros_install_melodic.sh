@@ -1,8 +1,5 @@
 #!/bin/bash -eu
 
-# The BSD License
-# Copyright (c) 2020 Qbotics Labs Pvt Ltd
-# Copyright (c) 2014 OROCA and ROS Korea Users Group
 
 #set -x
 
