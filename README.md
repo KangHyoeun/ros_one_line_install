@@ -15,6 +15,13 @@ wget -c https://raw.githubusercontent.com/KangHyoeun/ros_one_line_install/main/r
 
 ```
 
+For docker user
+
+```
+wget -c https://raw.githubusercontent.com/KangHyoeun/ros_one_line_install/main/ros2_install_foxy_docker.sh && chmod +x ./ros2_install_foxy_docker.sh && ./ros2_install_foxy_docker.sh
+
+```
+
 
 --------------------------------------------------------------------------
 Single line ROS Melodic Install
