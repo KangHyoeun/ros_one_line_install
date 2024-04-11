@@ -18,7 +18,7 @@ wget -c https://raw.githubusercontent.com/KangHyoeun/ros_one_line_install/main/r
 For docker user
 
 ```
-apt-get install -y wget && wget -c https://raw.githubusercontent.com/KangHyoeun/ros_one_line_install/main/ros2_install_foxy_docker.sh && chmod +x ./ros2_install_foxy_docker.sh && ./ros2_install_foxy_docker.sh
+apt-get install -y wget lsb && wget -c https://raw.githubusercontent.com/KangHyoeun/ros_one_line_install/main/ros2_install_foxy_docker.sh && chmod +x ./ros2_install_foxy_docker.sh && ./ros2_install_foxy_docker.sh
 
 ```
 
