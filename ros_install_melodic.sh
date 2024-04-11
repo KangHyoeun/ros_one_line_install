@@ -136,7 +136,7 @@ echo ">>> { After adding this, you can able to access ROS commands in terminal}"
 echo ""
 echo "source /opt/ros/melodic/setup.bash" >> /home/$user_name/.bashrc
 source /home/$user_name/.bashrc
-sudo apt install -y python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
+sudo apt-get install -y python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential
 sudo rosdep init
 rosdep update
 echo ""
